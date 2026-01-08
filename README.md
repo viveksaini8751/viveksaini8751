@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VivekSaini/VivekSaini/main/banner.png" alt="Frontend Developer Banner" />
+  <img src="https://raw.githubusercontent.com/viveksaini8751/viveksaini8751/main/github-header-banner%20(2).png" alt="Frontend Developer Banner" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Vivek Saini</h1>
 
